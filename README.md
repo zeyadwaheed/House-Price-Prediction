@@ -37,11 +37,8 @@ Utilizing three regression models:
 
 ## How to Use
 - Clone the repository to your local machine.
-- 
-- Ensure you have the required dependencies installed (i have provided already inside reqs.txt file inside the repository) .
-- 
+- Ensure you have the required dependencies installed (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn) .
+- I have provided already the required dependencies inside reqs.txt file.
 - Open and run the Jupyter notebook.
-- 
 - Follow the step-by-step guide for data preprocessing, visualization, and model building.
-- 
 - Experiment with hyperparameters and additional feature engineering to improve model performance.
