@@ -27,8 +27,10 @@ Employing pipelining for imputing and standardization to streamline the preproce
 ## Model Building and Evaluation
 
 Utilizing three regression models:
- Linear Regression: RMSE for training set --> 67871.07, R2 Score --> 0.65
+ Linear Regression: RMSE for training set --> 67871.07, R2 Score --> 0.65 
+ 
  SGD Regression: RMSE for training set --> 68016.30, R2 Score --> 0.65
+ 
  KNN Regression: RMSE for training set --> 61206.09, R2 Score --> 0.72
 Conclusion
 
