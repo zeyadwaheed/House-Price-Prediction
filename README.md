@@ -34,8 +34,8 @@ Conclusion
 
 Summarizing the findings, model performance, and potential areas for further improvement.
 ## How to Use
-Clone the repository to your local machine.
-Ensure you have the required dependencies installed (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn).
-Open and run the Jupyter notebook.
-Follow the step-by-step guide for data preprocessing, visualization, and model building.
-Experiment with hyperparameters and additional feature engineering to improve model performance.
+- Clone the repository to your local machine.
+- Ensure you have the required dependencies installed (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn).
+- Open and run the Jupyter notebook.
+- Follow the step-by-step guide for data preprocessing, visualization, and model building.
+- Experiment with hyperparameters and additional feature engineering to improve model performance.
