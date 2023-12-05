@@ -34,12 +34,14 @@ Utilizing three regression models:
  
  KNN Regression: RMSE for training set --> 61206.09, R2 Score --> 0.72
  
-Conclusion
 
-Summarizing the findings, model performance, and potential areas for further improvement.
 ## How to Use
 - Clone the repository to your local machine.
-- Ensure you have the required dependencies installed (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn).
+- 
+- Ensure you have the required dependencies installed (i have provided already inside reqs.txt file inside the repository) .
+- 
 - Open and run the Jupyter notebook.
+- 
 - Follow the step-by-step guide for data preprocessing, visualization, and model building.
+- 
 - Experiment with hyperparameters and additional feature engineering to improve model performance.
